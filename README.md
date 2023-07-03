@@ -1,4 +1,4 @@
-<h1><center>Uber-data-analysis-project</center></h1> 
+<h1>Uber Data Engineering Project</h1> 
 
 The outcome of this project was to perform TDL, and build a dashboard from the uber data csv.
 Technology used:
