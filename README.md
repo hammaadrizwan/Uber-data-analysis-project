@@ -5,6 +5,8 @@ Technology used:
 - Python(EDA)
 - Mage AI (TDL using python, creating the data pipeline)
 - GCP (Cloud storage)
-- BigQuery 
+- BigQuery
+
+## Project overview
 <img src="https://github.com/hammaadrizwan/Uber-data-engineering-project/blob/main/architecture.jpg">
 Credits to @darshilparmar
