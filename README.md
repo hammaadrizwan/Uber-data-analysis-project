@@ -13,5 +13,7 @@ Technology used:
 Credits to @darshilparmar
 
 ## Uber Dashboard
-Please Click the link below to use my interactive dashboard Created in Looker Studio
+<img src="https://drive.google.com/file/d/1mFxPycy4b2WqYHEWQS0INEPgWzz4QV2u/view?usp=sharing">
+<br>
+Please Click the link to use my interactive dashboard Created in Looker Studio
 <a>https://lookerstudio.google.com/reporting/dabd5d86-0d29-4d69-adeb-3c49a28aad40</a>
