@@ -11,3 +11,7 @@ Technology used:
 ## Project overview
 <img src="https://github.com/hammaadrizwan/Uber-data-engineering-project/blob/main/architecture.jpg">
 Credits to @darshilparmar
+
+## Uber Dashboard
+Please Click the link below to use my interactive dashboard Created in Looker Studio
+<a>https://lookerstudio.google.com/reporting/dabd5d86-0d29-4d69-adeb-3c49a28aad40</a>
